@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4d6b76e6-a8bb-4fc7-8ed9-b782f4d3d00d/resourceGroups/trivia/providers/Microsoft.Web/sites/trivia-questions",
+    "appService.deploySubpath": "frontend"
+}
